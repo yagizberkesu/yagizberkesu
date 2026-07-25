@@ -15,6 +15,29 @@ Web, mobil uygulama ve interaktif oyun projeleri üzerinde çalışıyorum.
 
 ## 🚀 Projelerim
 
+### 🍿 NextWatch 🚧
+
+Arkadaşlarla ya da sevgilinle "bu akşam ne izlesek?" tartışmasını bitiren, birlikte film/dizi kararı verme ve takip uygulaması.
+
+2-8 kişilik parti kurup ortak izleme listesi oluşturuyor, öneri veriyor, oylayıp karar veriyor; birlikte izlenen dizilerde bölüm ilerlemesini senkronlayıp spoiler'sız notlar bırakıyorsunuz.
+
+**Öne çıkan özellikler:**
+
+- Davet linkiyle 2-8 kişilik parti kurma
+- Film/dizi önerme, 4'lü tepki sistemiyle oylama, otomatik "ortak aday" belirleme
+- "Bu akşam ne izliyoruz?" karar kartı: platform/süre/tür/ruh haline göre filtreleyip 3 seçenek çıkarma + veto usulü karar çarkı
+- Dizilerde üye başına bölüm ilerlemesi, senkron durumu ve spoiler kilitli bölüm notları
+- "Nerede izlenir" (TMDB/JustWatch) rozetleri
+- Kişisel izleme listesi: durum takibi, toplu düzenleme, yeni bölüm/sezon takvimi
+- Uygulama içi bildirim merkezi, TR/EN dil ve açık/koyu tema desteği
+
+> Şu an aktif geliştirme aşamasında; kaynak kodu henüz özel (private) repoda.
+
+[![Canlı Site](https://img.shields.io/badge/Canlı_Site-NextWatch-F7C419?style=for-the-badge&logo=vercel&logoColor=black)](https://nextwatch-ten.vercel.app/)
+![Geliştirmede](https://img.shields.io/badge/Durum-Geliştirmede-orange?style=for-the-badge)
+
+---
+
 ### 🎓 SAÜScript Plus
 
 Sakarya Üniversitesi öğrencilerinin ders notlarını ve akademik durumlarını daha kolay takip edebilmesi için geliştirdiğim kapsamlı bir not simülatörü.
@@ -92,8 +115,10 @@ Kullanıcı galeriden bir görsel seçebilir, zorluk seviyesini belirleyebilir v
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
