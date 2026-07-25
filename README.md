@@ -133,9 +133,9 @@ Kullanıcı galeriden bir görsel seçebilir, zorluk seviyesini belirleyebilir v
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yagizberkesu&show_icons=true&theme=github_dark&hide_border=true&locale=tr)
+![GitHub Stats](https://github-readme-stats-seven-blond-26.vercel.app/api?username=yagizberkesu&show_icons=true&theme=github_dark&hide_border=true&locale=tr)
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yagizberkesu&layout=compact&theme=github_dark&hide_border=true&locale=tr)
+![Most Used Languages](https://github-readme-stats-seven-blond-26.vercel.app/api/top-langs/?username=yagizberkesu&layout=compact&theme=github_dark&hide_border=true&locale=tr)
 
 </div>
 
