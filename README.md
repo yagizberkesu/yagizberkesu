@@ -15,29 +15,6 @@ Web, mobil uygulama ve interaktif oyun projeleri üzerinde çalışıyorum.
 
 ## 🚀 Projelerim
 
-### 🍿 NextWatch 🚧
-
-Arkadaşlarla ya da sevgilinle "bu akşam ne izlesek?" tartışmasını bitiren, birlikte film/dizi kararı verme ve takip uygulaması.
-
-2-8 kişilik parti kurup ortak izleme listesi oluşturuyor, öneri veriyor, oylayıp karar veriyor; birlikte izlenen dizilerde bölüm ilerlemesini senkronlayıp spoiler'sız notlar bırakıyorsunuz.
-
-**Öne çıkan özellikler:**
-
-- Davet linkiyle 2-8 kişilik parti kurma
-- Film/dizi önerme, 4'lü tepki sistemiyle oylama, otomatik "ortak aday" belirleme
-- "Bu akşam ne izliyoruz?" karar kartı: platform/süre/tür/ruh haline göre filtreleyip 3 seçenek çıkarma + veto usulü karar çarkı
-- Dizilerde üye başına bölüm ilerlemesi, senkron durumu ve spoiler kilitli bölüm notları
-- "Nerede izlenir" (TMDB/JustWatch) rozetleri
-- Kişisel izleme listesi: durum takibi, toplu düzenleme, yeni bölüm/sezon takvimi
-- Uygulama içi bildirim merkezi, TR/EN dil ve açık/koyu tema desteği
-
-> Şu an aktif geliştirme aşamasında; kaynak kodu henüz özel (private) repoda.
-
-[![Canlı Site](https://img.shields.io/badge/Canlı_Site-NextWatch-F7C419?style=for-the-badge&logo=vercel&logoColor=black)](https://nextwatch-ten.vercel.app/)
-![Geliştirmede](https://img.shields.io/badge/Durum-Geliştirmede-orange?style=for-the-badge)
-
----
-
 ### 🎓 SAÜScript Plus
 
 Sakarya Üniversitesi öğrencilerinin ders notlarını ve akademik durumlarını daha kolay takip edebilmesi için geliştirdiğim kapsamlı bir not simülatörü.
@@ -62,6 +39,29 @@ Transkript verilerini cihaz üzerinde analiz eder; farklı harf notlarının gen
 
 [![Canlı Site](https://img.shields.io/badge/Canlı_Site-SAÜScript_Plus-2396F3?style=for-the-badge&logo=githubpages&logoColor=white)](https://yagizberkesu.github.io/sauscript/)
 
+---
+
+
+
+### 🍿 NextWatch 🚧
+
+Arkadaşlarla ya da sevgilinle "bu akşam ne izlesek?" tartışmasını bitiren, birlikte film/dizi kararı verme ve takip uygulaması.
+
+2-8 kişilik parti kurup ortak izleme listesi oluşturuyor, öneri veriyor, oylayıp karar veriyor; birlikte izlenen dizilerde bölüm ilerlemesini senkronlayıp spoiler'sız notlar bırakıyorsunuz.
+
+**Öne çıkan özellikler:**
+
+- Davet linkiyle 2-8 kişilik parti kurma
+- Film/dizi önerme, 4'lü tepki sistemiyle oylama, otomatik "ortak aday" belirleme
+- "Bu akşam ne izliyoruz?" karar kartı: platform/süre/tür/ruh haline göre filtreleyip 3 seçenek çıkarma + veto usulü karar çarkı
+- Dizilerde üye başına bölüm ilerlemesi, senkron durumu ve spoiler kilitli bölüm notları
+- "Nerede izlenir" (TMDB/JustWatch) rozetleri
+- Kişisel izleme listesi: durum takibi, toplu düzenleme, yeni bölüm/sezon takvimi
+- Uygulama içi bildirim merkezi, TR/EN dil ve açık/koyu tema desteği
+
+> Şu an aktif geliştirme aşamasında; kaynak kodu henüz özel (private) repoda.
+
+[![Canlı Site](https://img.shields.io/badge/Canlı_Site-NextWatch-F7C419?style=for-the-badge&logo=vercel&logoColor=black)](https://nextwatch-ten.vercel.app/)
 ---
 
 ### 🎲 Tavla
