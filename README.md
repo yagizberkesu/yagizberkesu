@@ -47,17 +47,18 @@ Transkript verilerini cihaz üzerinde analiz eder; farklı harf notlarının gen
 
 Arkadaşlarla ya da sevgilinle "bu akşam ne izlesek?" tartışmasını bitiren, birlikte film/dizi kararı verme ve takip uygulaması.
 
-2-8 kişilik parti kurup ortak izleme listesi oluşturuyor, öneri veriyor, oylayıp karar veriyor; birlikte izlenen dizilerde bölüm ilerlemesini senkronlayıp spoiler'sız notlar bırakıyorsunuz.
+2-8 kişilik parti kurup ortak izleme listesi oluşturuyor, öneri veriyor, oylayıp karar veriyor; birlikte izlenen dizilerde bölüm ilerlemesini senkronlayıp spoiler'sız notlar bırakıyor, kullanıcıları takip edip profillerini görüntülüyorsunuz.
 
 **Öne çıkan özellikler:**
 
-- Davet linkiyle 2-8 kişilik parti kurma
-- Film/dizi önerme, 4'lü tepki sistemiyle oylama, otomatik "ortak aday" belirleme
-- "Bu akşam ne izliyoruz?" karar kartı: platform/süre/tür/ruh haline göre filtreleyip 3 seçenek çıkarma + veto usulü karar çarkı
-- Dizilerde üye başına bölüm ilerlemesi, senkron durumu ve spoiler kilitli bölüm notları
-- "Nerede izlenir" (TMDB/JustWatch) rozetleri
-- Kişisel izleme listesi: durum takibi, toplu düzenleme, yeni bölüm/sezon takvimi
-- Uygulama içi bildirim merkezi, TR/EN dil ve açık/koyu tema desteği
+- Davet linkiyle 2-8 kişilik parti kurma; öneri, 4'lü tepki sistemiyle oylama, otomatik "ortak aday" belirleme
+- "Bu akşam ne izliyoruz?" karar kartı: filtreleyip "Bize seç" ile rastgele karar aldırma
+- Dizilerde üye başına senkron bölüm ilerlemesi, aradaki fark bildirimi, spoiler kilitli bölüm notları, bir diziyi "beklemeye alma"
+- Film gecesi planlama: tarih/saat, atıştırmalık notu, sonrasında "nasıldı" anı notu
+- Kişisel izleme listesi: durum/puan takibi, TMDB özet + "bunu izleyenler şunu da izledi" önerileri, spoiler kilitli sıradaki bölüm konusu (otomatik Türkçe çeviri), yeni bölüm/sezon takvimi
+- Kullanıcı arama (Türkçe karakter duyarsız) ve takip sistemi, herkese açık profil sayfaları
+- "Nerede izlenir" (TMDB/JustWatch) rozetleri, uygulama içi bildirim merkezi
+- PWA: ana ekrana ekleme, çevrimdışı kullanım, TR/EN dil ve açık/koyu tema desteği
 
 > Şu an aktif geliştirme aşamasında; kaynak kodu henüz özel (private) repoda.
 
