@@ -60,7 +60,7 @@ Arkadaşlarla ya da sevgilinle "bu akşam ne izlesek?" tartışmasını bitiren,
 - "Nerede izlenir" (TMDB/JustWatch) rozetleri, uygulama içi bildirim merkezi
 - PWA: ana ekrana ekleme, çevrimdışı kullanım, TR/EN dil ve açık/koyu tema desteği
 
-> Şu an aktif geliştirme aşamasında; kaynak kodu henüz özel (private) repoda.
+> Şu an geliştirme molasında; kaynak kodu henüz özel (private) repoda.
 
 [![Canlı Site](https://img.shields.io/badge/Canlı_Site-NextWatch-F7C419?style=for-the-badge&logo=vercel&logoColor=black)](https://nextwatch-ten.vercel.app/)
 ---
