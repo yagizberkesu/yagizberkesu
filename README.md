@@ -21,7 +21,7 @@ Sakarya Üniversitesi öğrencilerinin ders notlarını ve akademik durumların�
 
 Transkript verilerini cihaz üzerinde analiz eder; farklı harf notlarının genel ortalamaya etkisini, dönem planlarını ve final hedeflerini hesaplamaya yardımcı olur.
 
-**Öne çıkan özellikler:**
+** Öne çıkan özellikler: **
 
 - SABİS transkript PDF’sini tarayıcı içinde analiz etme
 - Kopyala-yapıştır veya elle ders girişi
