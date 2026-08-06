@@ -65,6 +65,32 @@ Arkadaşlarla ya da sevgilinle "bu akşam ne izlesek?" tartışmasını bitiren,
 [![Canlı Site](https://img.shields.io/badge/Canlı_Site-NextWatch-F7C419?style=for-the-badge&logo=vercel&logoColor=black)](https://nextwatch-ten.vercel.app/)
 ---
 
+### 🧩 Puzzle Web
+
+Tek başına ya da bir arkadaşınla aynı anda çözebildiğin, 1000 parçaya kadar çıkan web tabanlı yapboz oyunu.
+
+Oda kurup davet linkini paylaşıyorsun; iki taraf da aynı masayı canlı görüyor, parçalar sürüklenirken karşı tarafta anlık hareket ediyor ve kimin hangi parçayı tuttuğu renkli çerçeveyle belli oluyor.
+
+**Öne çıkan özellikler:**
+
+- 25'ten 1000 parçaya kadar seçenek, WebGL (PixiJS) ile akıcı render
+- Davet linkiyle iki kişilik oda kurma ve parça konumlarının gerçek zamanlı senkronizasyonu
+- Karşı oyuncunun imleci, canlı sürükleme önizlemesi ve tutulan parçada tutan kişinin rengi
+- Referans panelinden bölge seçip o bölgenin dağınık parçalarını kendi köşene toplama
+- Kutu seçimi ve `Ctrl`+tık ile çoklu seçim, birleşmiş kümeleri tek parça gibi taşıma
+- Doğru yere bırakılan kenar parçalarının masaya kalıcı olarak oturması
+- Gerçekçi klasik `tab/blank` jigsaw geometrisi ve parça kenarlarında kabartma
+- Sağ tık ile gezinme, tekerlekle yakınlaşma; dokunmatikte tek parmak kaydırma ve iki parmak zoom
+- Hazır görsel galerisi veya kendi görselini yükleme, arka plan rengi seçimi
+- İlerleme çubuğu, birleşme sesi ve tamamlanınca otomatik yakınlaşma
+- PWA: ana ekrana ekleme ve çevrimdışı açılış
+
+> Kaynak kodu şu an özel (private) repoda.
+
+[![Canlı Site](https://img.shields.io/badge/Canlı_Site-Puzzle_Web-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white)](https://puzzle-web-green.vercel.app)
+
+---
+
 ### 🎲 Tavla
 
 Mobil ve masaüstü cihazlarda oynanabilen, modern web tabanlı bir backgammon oyunu.
@@ -120,11 +146,14 @@ Kullanıcı galeriden bir görsel seçebilir, zorluk seviyesini belirleyebilir v
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+![PixiJS](https://img.shields.io/badge/PixiJS-E72264?style=flat-square&logo=pixiv&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 
 </div>
 
