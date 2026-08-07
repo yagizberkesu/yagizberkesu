@@ -65,7 +65,7 @@ Arkadaşlarla ya da sevgilinle "bu akşam ne izlesek?" tartışmasını bitiren,
 [![Canlı Site](https://img.shields.io/badge/Canlı_Site-NextWatch-F7C419?style=for-the-badge&logo=vercel&logoColor=black)](https://nextwatch-ten.vercel.app/)
 ---
 
-### 🧩 Puzzle Web
+### 🧩 CoPuzzle
 
 Tek başına ya da bir arkadaşınla aynı anda çözebildiğin, 1000 parçaya kadar çıkan web tabanlı yapboz oyunu.
 
@@ -87,7 +87,7 @@ Oda kurup davet linkini paylaşıyorsun; iki taraf da aynı masayı canlı gör�
 
 > Kaynak kodu şu an özel (private) repoda.
 
-[![Canlı Site](https://img.shields.io/badge/Canlı_Site-Puzzle_Web-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white)](https://puzzle-web-green.vercel.app)
+[![Canlı Site](https://img.shields.io/badge/Canlı_Site-CoPuzzle-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white)](https://puzzle-web-green.vercel.app)
 
 ---
 
