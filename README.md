@@ -150,6 +150,8 @@ Kullanıcı galeriden bir görsel seçebilir, zorluk seviyesini belirleyebilir v
 - Parçaların board’a taşınırken gerçek boyutuna geçiş animasyonu
 - AsyncStorage ile kayıtlı yapbozlara kaldığın yerden devam etme
 
+[![Kaynak Kodu](https://img.shields.io/badge/Kaynak_Kodu-puzzle--app-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yagizberkesu/puzzle-app)
+
 ---
 
 ## 🛠️ Kullandığım Teknolojiler
