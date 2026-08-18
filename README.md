@@ -21,7 +21,7 @@ Sakarya Üniversitesi öğrencilerinin ders notlarını ve akademik durumların�
 
 Transkript verilerini cihaz üzerinde analiz eder; farklı harf notlarının genel ortalamaya etkisini, dönem planlarını ve final hedeflerini hesaplamaya yardımcı olur.
 
-** Öne çıkan özellikler: **
+**Öne çıkan özellikler:**
 
 - SABİS transkript PDF’sini tarayıcı içinde analiz etme
 - Kopyala-yapıştır veya elle ders girişi
@@ -38,11 +38,11 @@ Transkript verilerini cihaz üzerinde analiz eder; farklı harf notlarının gen
 
 > SAÜScript Plus’ın Sakarya Üniversitesi veya SABİS ile resmî bağlantısı yoktur. Sonuçlar bilgilendirme amaçlıdır. Kaynak kodu şu an özel (private) repoda.
 
+![SAÜScript Plus anasayfası](docs/screenshots/sauscript.png)
+
 [![Canlı Site](https://img.shields.io/badge/Canlı_Site-SAÜScript_Plus-2396F3?style=for-the-badge&logo=githubpages&logoColor=white)](https://yagizberkesu.github.io/sauscript/)
 
 ---
-
-
 
 ### 🍿 NextWatch
 
@@ -60,22 +60,30 @@ Arkadaşlarla ya da sevgilinle "bu akşam ne izlesek?" tartışmasını bitiren,
 - Kullanıcı arama (Türkçe karakter duyarsız) ve takip sistemi, herkese açık profil sayfaları
 - "Nerede izlenir" (TMDB/JustWatch) rozetleri, uygulama içi bildirim merkezi
 - Bir dizi tamamlanınca (izlenen bölüm = toplam) otomatik "izlendi" durumuna geçme
+- Parti içerikleri durum sekmelerine ayrılıyor: Öneriler, ortak adaylar, izlenecekler, izlenenler, duraklatılanlar, bırakılanlar
+- Onayla duraklatma: herkes "Duraklat" oyu verince dizi duraklatılıyor; 7 gün hiç bölüm izlenmezse otomatik "Bırakıldı"ya düşüyor, yeni bölüm işaretlenince geri dönüyor
+- 2 kişilik partilerde üye başına ayrı renkli çift ilerleme çubuğu ve tüm üyelere göre canlı hesaplanan tamamlanma oranı
+- Parti adını yazarak doğrulamalı parti silme
+- Wrap kartı: bir içeriği bitirince 10 üzerinden puan + yorum, "X ve Y'nin ... macerası" özet kartı, dizilerde kim ne zaman nerede kaldığını gösteren basamaklı ilerleme grafiği
 - PWA: ana ekrana ekleme, çevrimdışı kullanım, TR/EN dil ve açık/koyu tema desteği
 
 > Kaynak kodu şu an özel (private) repoda.
 
+![NextWatch anasayfası](docs/screenshots/nextwatch.png)
+
 [![Canlı Site](https://img.shields.io/badge/Canlı_Site-NextWatch-F7C419?style=for-the-badge&logo=vercel&logoColor=black)](https://nextwatch-ten.vercel.app/)
+
 ---
 
 ### 🧩 CoPuzzle
 
-Tek başına ya da bir arkadaşınla aynı anda çözebildiğin, 1000 parçaya kadar çıkan web tabanlı yapboz oyunu.
+Tek başına ya da bir arkadaşınla aynı anda çözebildiğin, 2000 parçaya kadar çıkan web tabanlı yapboz oyunu.
 
 Oda kurup davet linkini paylaşıyorsun; iki taraf da aynı masayı canlı görüyor, parçalar sürüklenirken karşı tarafta anlık hareket ediyor ve kimin hangi parçayı tuttuğu renkli çerçeveyle belli oluyor.
 
 **Öne çıkan özellikler:**
 
-- 25'ten 1000 parçaya kadar seçenek, WebGL (PixiJS) ile akıcı render
+- Rahat'tan Efsane'ye 5 zorluk kademesi, 25'ten 2000 parçaya kadar seçenek, WebGL (PixiJS) ile akıcı render
 - Davet linkiyle iki kişilik oda kurma ve parça konumlarının gerçek zamanlı senkronizasyonu
 - Karşı oyuncunun imleci, canlı sürükleme önizlemesi ve tutulan parçada tutan kişinin rengi
 - Referans panelinden bölge seçip o bölgenin dağınık parçalarını kendi köşene toplama
@@ -89,6 +97,8 @@ Oda kurup davet linkini paylaşıyorsun; iki taraf da aynı masayı canlı gör�
 - PWA: ana ekrana ekleme ve çevrimdışı açılış
 
 > Kaynak kodu şu an özel (private) repoda.
+
+![CoPuzzle oyun tahtası](docs/screenshots/copuzzle.png)
 
 [![Canlı Site](https://img.shields.io/badge/Canlı_Site-CoPuzzle-7C4DFF?style=for-the-badge&logo=vercel&logoColor=white)](https://puzzle-web-green.vercel.app)
 
@@ -112,6 +122,8 @@ Klasik tavla kurallarını (kırık taş, bara giriş önceliği, taş kırma, t
 - PWA desteği, dikey/yatay telefon ekranlarına uyarlanmış arayüz
 
 > Kaynak kodu şu an özel (private) repoda.
+
+![Tavla oyun tahtası](docs/screenshots/tavla.png)
 
 [![Oyunu Aç](https://img.shields.io/badge/Oyunu_Aç-Tavla-43A047?style=for-the-badge&logo=githubpages&logoColor=white)](https://yagizberkesu.github.io/tavlays/)
 
@@ -188,8 +200,6 @@ Kullanıcı galeriden bir görsel seçebilir, zorluk seviyesini belirleyebilir v
 ---
 
 <div align="center">
-
-### Kod yazmak yalnızca bir şeyleri çalıştırmak değil, iyi bir deneyim tasarlamaktır.
 
 **Yağız Berke Su**
 
