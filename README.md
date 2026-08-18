@@ -31,11 +31,12 @@ Transkript verilerini cihaz üzerinde analiz eder; farklı harf notlarının gen
 - Vize, final, ödev, proje ve diğer katkı puanlarını takip etme
 - Hedef harf notu için gerekli final notunu hesaplama
 - Ders bazında genel ortalama etkisi
+- Sayı değişimlerinde akıcı geçiş animasyonu, sessiz kalan işlemler (yedekle/geri al) için bildirimler
 - JSON veri yedekleme ve geri yükleme
 - Karanlık tema ve mobil uyumlu arayüz
 - Verilerin yalnızca kullanıcının cihazında saklanması
 
-> SAÜScript Plus’ın Sakarya Üniversitesi veya SABİS ile resmî bağlantısı yoktur. Sonuçlar bilgilendirme amaçlıdır.
+> SAÜScript Plus’ın Sakarya Üniversitesi veya SABİS ile resmî bağlantısı yoktur. Sonuçlar bilgilendirme amaçlıdır. Kaynak kodu şu an özel (private) repoda.
 
 [![Canlı Site](https://img.shields.io/badge/Canlı_Site-SAÜScript_Plus-2396F3?style=for-the-badge&logo=githubpages&logoColor=white)](https://yagizberkesu.github.io/sauscript/)
 
@@ -43,7 +44,7 @@ Transkript verilerini cihaz üzerinde analiz eder; farklı harf notlarının gen
 
 
 
-### 🍿 NextWatch 🚧
+### 🍿 NextWatch
 
 Arkadaşlarla ya da sevgilinle "bu akşam ne izlesek?" tartışmasını bitiren, birlikte film/dizi kararı verme ve takip uygulaması.
 
@@ -58,9 +59,10 @@ Arkadaşlarla ya da sevgilinle "bu akşam ne izlesek?" tartışmasını bitiren,
 - Kişisel izleme listesi: durum/puan takibi, TMDB özet + "bunu izleyenler şunu da izledi" önerileri, spoiler kilitli sıradaki bölüm konusu (otomatik Türkçe çeviri), yeni bölüm/sezon takvimi
 - Kullanıcı arama (Türkçe karakter duyarsız) ve takip sistemi, herkese açık profil sayfaları
 - "Nerede izlenir" (TMDB/JustWatch) rozetleri, uygulama içi bildirim merkezi
+- Bir dizi tamamlanınca (izlenen bölüm = toplam) otomatik "izlendi" durumuna geçme
 - PWA: ana ekrana ekleme, çevrimdışı kullanım, TR/EN dil ve açık/koyu tema desteği
 
-> Şu an geliştirme molasında; kaynak kodu henüz özel (private) repoda.
+> Kaynak kodu şu an özel (private) repoda.
 
 [![Canlı Site](https://img.shields.io/badge/Canlı_Site-NextWatch-F7C419?style=for-the-badge&logo=vercel&logoColor=black)](https://nextwatch-ten.vercel.app/)
 ---
@@ -83,6 +85,7 @@ Oda kurup davet linkini paylaşıyorsun; iki taraf da aynı masayı canlı gör�
 - Sağ tık ile gezinme, tekerlekle yakınlaşma; dokunmatikte tek parmak kaydırma ve iki parmak zoom
 - Hazır görsel galerisi veya kendi görselini yükleme, arka plan rengi seçimi
 - İlerleme çubuğu, birleşme sesi ve tamamlanınca otomatik yakınlaşma
+- Günün yapbozu ve yarım kalan oyunlara kaldığı yerden devam etme
 - PWA: ana ekrana ekleme ve çevrimdışı açılış
 
 > Kaynak kodu şu an özel (private) repoda.
@@ -93,20 +96,22 @@ Oda kurup davet linkini paylaşıyorsun; iki taraf da aynı masayı canlı gör�
 
 ### 🎲 Tavla
 
-Mobil ve masaüstü cihazlarda oynanabilen, modern web tabanlı bir backgammon oyunu.
+Arkadaşlarla gerçek zamanlı online oynanan, mobil ve masaüstünde çalışan modern bir web tavlası.
 
-Klasik tavla mekaniklerini sosyal özelliklerle birleştiren interaktif bir oyun deneyimi sunar.
+Klasik tavla kurallarını (kırık taş, bara giriş önceliği, taş kırma, toplama, mars) eksiksiz uygulayan bir motorla, oda kurma/katılma ve sosyal özellikleri birleştiriyor.
 
 **Öne çıkan özellikler:**
 
-- Tam fonksiyonel tavla oyun mekanikleri
-- Gerçek zamanlı sohbet
-- Emoji reaksiyonları
-- Oyun durumu görünümü
-- Chat peek özelliği
-- Okunmamış mesaj rozeti
-- Mobil ve masaüstü uyumlu responsive tasarım
-- Modern ve kullanıcı dostu arayüz
+- Kurallara uygun tavla motoru: 1/3/5 puanlık maçlar, rövanş serisi, açılış zar turu
+- Firebase Realtime Database ile oda kurma, oda koduyla katılma, gerçek zamanlı senkron oyun
+- Hamleleri göndermeden önce geri alma; rakibe yalnızca "Gönder" sonrasında iletme
+- Sohbet, profile özel hızlı mesajlar, emoji reaksiyonları ve emoji yağmuru
+- Davet sistemi, rövanş isteği, maç özeti ve profil istatistikleri
+- Klasik, yeşil çuha, mermer, açık ahşap ve gece temaları; profile özel taş stili
+- Yumuşak taş/zar animasyonları, buton ve panel geçişlerinde ince dokunuşlar (`prefers-reduced-motion` desteğiyle)
+- PWA desteği, dikey/yatay telefon ekranlarına uyarlanmış arayüz
+
+> Kaynak kodu şu an özel (private) repoda.
 
 [![Oyunu Aç](https://img.shields.io/badge/Oyunu_Aç-Tavla-43A047?style=for-the-badge&logo=githubpages&logoColor=white)](https://yagizberkesu.github.io/tavlays/)
 
